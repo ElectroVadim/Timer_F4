@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<history>
+   <processor signature="arm-none-eabi-gcc -mcpu=cortex-m4 -mthumb -g -nostartfiles -Map=Project_2_PWM_TIMER.map -O0 --gc-sections -LC:\CooCox\CoIDE\configuration\ProgramData\Project_2_PWM_TIMER -TC:\CooCox\CoIDE\configuration\ProgramData\Project_2_PWM_TIMER/link.ld -g">
+      <target file="Project_2_PWM_TIMER.elf" lastModified="153c3f3fcd3">
+         <source file="..\obj\startup_stm32f4xx.o" lastModified="153c3f3f80d"/>
+         <source file="..\obj\main.o" lastModified="153c3f3f876"/>
+         <source file="..\obj\stm32f4xx_rcc.o" lastModified="153c3f3f8f6"/>
+         <source file="..\obj\stm32f4xx_gpio.o" lastModified="153c3f3f966"/>
+         <source file="..\obj\system_stm32f4xx.o" lastModified="153c3f3f9b3"/>
+         <source file="..\obj\misc.o" lastModified="153c3f3f9fd"/>
+         <source file="..\obj\stm32f4xx_tim.o" lastModified="153c3f3fad1"/>
+      </target>
+   </processor>
+</history>
